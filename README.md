@@ -5,7 +5,7 @@ Jesus Daniel Roldan
 
 Este proyecto contiene los siguientes archivos:
 
-https://drive.google.com/drive/u/1/folders/1mBUAUurj1hKIYtAxbRctX9qYKbzWHl_m (Carpeta que contiene los modelos entrenados y los dataset, se sube a google drive debido a que Github no acepta archivos de mas de 25 MB). 
+https://drive.google.com/drive/folders/1mBUAUurj1hKIYtAxbRctX9qYKbzWHl_m?usp=sharing (Carpeta que contiene los modelos entrenados y los dataset, se sube a google drive debido a que Github no acepta archivos de mas de 25 MB). 
 
 Contenido:
 
